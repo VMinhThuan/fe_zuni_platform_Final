@@ -60,3 +60,4 @@ cd fe-react-zuni-app-mobile
 npm start
 
 # fe_zuni_platform-Ver_FInal
+# fe_zuni_platform-Ver_FInal
